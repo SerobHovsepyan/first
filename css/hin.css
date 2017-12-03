@@ -1,0 +1,18 @@
+
+
+
+
+
+
+.cube{
+	height: 50px;
+	width: 50px;
+	background-color: red;
+	display: inline-block;
+	margin-left: 20px
+
+}
+.taza{
+	background-color: green;
+	text-align: center;
+}
